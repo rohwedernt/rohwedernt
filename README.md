@@ -2,14 +2,14 @@
 
 ### 🙌 Engineering Manager • 👨‍💻 Dev • 🎸 Musician • 🐕 Dog dad  
 
-📚 **I'm reading**... Outliers by Malcolm Gladwell  
-
 🔭 **I'm working on**
  - A model-agnostic AI gateway with response comparison, per-model dynamic rate limiting, streaming, and caching.
  - A fitness tracker that builds habits by measuring progress toward yearly goals
  - A nutrition tracker that helps you focus on what to eat (instead of telling you what not to)—ensuring you get the full spectrum of essential nutrients each week.
 
 📝 **I'm focused on**... Svelte • Go • AWS • Kafka • Spanish • Economy Picking  
+
+📚 **I'm reading**... Outliers by Malcolm Gladwell  
 
 🗂️ **Projects**
 - [Nate Rohweder Dot Com](https://www.naterohweder.com/)
