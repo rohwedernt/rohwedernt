@@ -9,7 +9,7 @@
 
 📝 **I'm focused on**... Svelte • Go • AWS • Kafka • Spanish • Economy Picking  
 
-📚 **I'm reading**... Outliers by Malcolm Gladwell  
+📚 **I'm reading**... We Used to Live Here by Marcus Kliewer
 
 🗂️ **Projects**
 - [Nate Rohweder Dot Com](https://www.naterohweder.com/)
