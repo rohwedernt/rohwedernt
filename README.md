@@ -9,7 +9,7 @@
 
 📝 **I'm focused on**... Svelte • Go • AWS • Kafka • Spanish • Economy Picking  
 
-📚 **I'm reading**... The Housemaid by Freida McFadden
+📚 **I'm reading**... Who Is Government? by Michael Lewis (edited/co-authored)
 
 🗂️ **Projects**
 - [Nate Rohweder Dot Com](https://www.naterohweder.com/)
