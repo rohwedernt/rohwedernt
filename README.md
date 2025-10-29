@@ -9,7 +9,7 @@
 
 📝 **I'm focused on**... Svelte • Go • AWS • Kafka • Spanish • Economy Picking  
 
-📚 **I'm reading**... Who Is Government? by Michael Lewis (edited/co-authored)
+📚 **I'm reading**... Wild Dark Shore by Charlotte McConaghy
 
 🗂️ **Projects**
 - [Nate Rohweder Dot Com](https://www.naterohweder.com/)
