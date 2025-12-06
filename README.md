@@ -2,7 +2,7 @@
 
 ### 🙌 Engineering Manager • 👨‍💻 Dev • 🎸 Musician • 🐕 Dog dad  
 
-🔭 **When I have some time projects...**
+🔭 **When-I-have-some-time projects...**
  - A model-agnostic AI gateway with response comparison, per-model dynamic rate limiting, streaming, and caching.
  - A fitness tracker that builds habits by measuring progress toward yearly goals
  - A nutrition tracker that helps you focus on what to eat (instead of telling you what not to)—ensuring you get the full spectrum of essential nutrients each week.
