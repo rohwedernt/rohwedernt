@@ -3,13 +3,12 @@
 ### 🙌 Engineering Manager • 👨‍💻 Dev • 🎸 Musician • 🐕 Dog dad  
 
 🔭 **When-I-have-some-time projects...**
- - A model-agnostic AI gateway with response comparison, per-model dynamic rate limiting, streaming, and caching.
+ - Upcoming prompt-based site generation for nate rohweder dot com that allows you to regenerate the UI based on a keyword.
  - A fitness tracker that builds habits by measuring progress toward yearly goals
- - A nutrition tracker that helps you focus on what to eat (instead of telling you what not to)—ensuring you get the full spectrum of essential nutrients each week.
 
 📝 **I'm focused on**... Go • Hono • AWS • Kafka • Spanish • [Coltrane Changes](https://www.thejazzpianosite.com/jazz-piano-lessons/jazz-chord-progressions/coltrane-changes/) 
 
-📚 **I'm reading**... Hear Me Talkin' to Ya by Nat Shapiro
+📚 **I'm reading**... Stalingrad: The Fateful Siege by Antony Beevor
 
 🗂️ **Projects**
 - [Nate Rohweder Dot Com](https://www.naterohweder.com/)
