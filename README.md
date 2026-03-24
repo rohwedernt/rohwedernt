@@ -6,7 +6,7 @@
  - Upcoming prompt-based site generation for nate rohweder dot com that allows you to regenerate the UI based on a keyword.
  - A fitness tracker that builds habits by measuring progress toward yearly goals
 
-📝 **I'm focused on**... Go • Hono • AWS • Kafka • Spanish • [Coltrane Changes](https://www.thejazzpianosite.com/jazz-piano-lessons/jazz-chord-progressions/coltrane-changes/) 
+📝 **I'm focused on**... Claude Code • AWS • Matilda's recovery • Spanish • Live studio video for upcoming song 
 
 📚 **I'm reading**... Stalingrad: The Fateful Siege by Antony Beevor
 
