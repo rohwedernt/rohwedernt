@@ -8,7 +8,7 @@
 
 📝 **I'm focused on**... Claude Code • AWS • Matilda's recovery • Spanish • Live studio video for upcoming song 
 
-📚 **I'm reading**... Stalingrad: The Fateful Siege by Antony Beevor
+📚 **I'm reading**... Eastern Approaches by Fitzroy Maclean
 
 🗂️ **Projects**
 - [Nate Rohweder Dot Com](https://www.naterohweder.com/)
