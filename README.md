@@ -8,7 +8,7 @@
 
 📝 **I'm focused on**... Claude Code • AWS • Matilda's recovery • Spanish • Live studio video for upcoming song 
 
-📚 **I'm reading**... Eastern Approaches by Fitzroy Maclean
+📚 **I'm reading**... Cannery Row by John Steinbeck
 
 🗂️ **Projects**
 - [Nate Rohweder Dot Com](https://www.naterohweder.com/)
